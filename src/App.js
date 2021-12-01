@@ -18,6 +18,6 @@ function App() {
       </header>
     </div>
   );
-}u = User.find_by(email:"reyalejandrobq@gmail.com")
+}
 
 export default App;
